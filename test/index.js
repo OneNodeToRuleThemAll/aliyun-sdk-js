@@ -1,5 +1,5 @@
 
 //run with mocha
 
-require('./sls');
+//require('./sls');
 require('./batchcompute');

@@ -1,7 +1,7 @@
 var conf = {
-    accessKeyId: '',
-    secretAccessKey: '',
-    endpoint: 'http://cn-hangzhou.sls.aliyuncs.com',
+    accessKeyId: process.env.ALIYUN_OSS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.ALIYUN_OSS_ACCESS_KEY_SECRET,
+    endpoint: process.env.ALIYUN_OSS_ENDPOINT,
     projectName: '',
     logStoreName: ''
 };
