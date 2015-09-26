@@ -41,6 +41,11 @@
   "directories": {
     "lib": "lib"
   },
+  "files": [
+    "index.js",
+    "lib",
+    "apis"
+  ],
   "engines": {
     "node": ">= 0.6.0"
   },
