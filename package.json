@@ -1,12 +1,12 @@
 {
-  "name": "aliyun-sdk-var",
-  "description": "Aliyun SDK for JavaScript",
+  "name": "aliyun-sdk-clean",
+  "description": "Aliyun SDK for JavaScript without console in production",
   "version": "0.0.1",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
+    "name": "calidion",
+    "email": "calidion@gmail.com"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com/OneNodeToRuleThemAll/aliyun-sdk-js.git",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
